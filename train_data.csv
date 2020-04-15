@@ -1,0 +1,103 @@
+,route_id,route_name,time,stop_name,lattitude,longitude
+0,1,0    Broadway - 7 Avenue Local,2020-04-15 01:04:51,South Ferry,40.702068,-74.013664
+1,1,0    Broadway - 7 Avenue Local,2020-04-15 01:09:13,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+2,1,0    Broadway - 7 Avenue Local,2020-04-15 01:20:44,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+3,1,0    Broadway - 7 Avenue Local,2020-04-15 01:28:16,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+4,1,0    Broadway - 7 Avenue Local,2020-04-15 01:33:50,South Ferry,40.702068,-74.013664
+5,1,0    Broadway - 7 Avenue Local,2020-04-15 01:37:56,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+6,1,0    Broadway - 7 Avenue Local,2020-04-15 01:47:03,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+7,1,0    Broadway - 7 Avenue Local,2020-04-15 02:01:30,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+8,1,0    Broadway - 7 Avenue Local,2020-04-15 02:04:00,South Ferry,40.702068,-74.013664
+9,1,0    Broadway - 7 Avenue Local,2020-04-15 02:24:00,South Ferry,40.702068,-74.013664
+10,1,0    Broadway - 7 Avenue Local,2020-04-15 02:31:00,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+11,1,0    Broadway - 7 Avenue Local,2020-04-15 00:57:04,Van Cortlandt Park - 242 St,40.889247999999995,-73.898583
+12,2,1    7 Avenue Express,2020-04-15 02:04:08,Wakefield - 241 St,40.903125,-73.85061999999999
+13,2,1    7 Avenue Express,2020-04-15 01:58:30,Wakefield - 241 St,40.903125,-73.85061999999999
+14,2,1    7 Avenue Express,2020-04-15 02:09:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+15,2,1    7 Avenue Express,2020-04-15 02:08:30,Wakefield - 241 St,40.903125,-73.85061999999999
+16,2,1    7 Avenue Express,2020-04-15 02:19:02,Flatbush Av - Brooklyn College,40.632836,-73.947642
+17,2,1    7 Avenue Express,2020-04-15 02:18:30,Wakefield - 241 St,40.903125,-73.85061999999999
+18,2,1    7 Avenue Express,2020-04-15 02:29:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+19,2,1    7 Avenue Express,2020-04-15 02:23:09,Wakefield - 241 St,40.903125,-73.85061999999999
+20,2,1    7 Avenue Express,2020-04-15 02:38:30,Wakefield - 241 St,40.903125,-73.85061999999999
+21,2,1    7 Avenue Express,2020-04-15 02:49:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+22,2,1    7 Avenue Express,2020-04-15 02:58:30,Wakefield - 241 St,40.903125,-73.85061999999999
+23,2,1    7 Avenue Express,2020-04-15 03:09:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+24,2,1    7 Avenue Express,2020-04-15 03:19:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+25,2,1    7 Avenue Express,2020-04-15 03:28:30,Wakefield - 241 St,40.903125,-73.85061999999999
+26,2,1    7 Avenue Express,2020-04-15 01:01:46,Flatbush Av - Brooklyn College,40.632836,-73.947642
+27,2,1    7 Avenue Express,2020-04-15 01:15:33,Wakefield - 241 St,40.903125,-73.85061999999999
+28,2,1    7 Avenue Express,2020-04-15 01:24:58,Flatbush Av - Brooklyn College,40.632836,-73.947642
+29,2,1    7 Avenue Express,2020-04-15 01:38:00,Wakefield - 241 St,40.903125,-73.85061999999999
+30,2,1    7 Avenue Express,2020-04-15 01:49:00,Flatbush Av - Brooklyn College,40.632836,-73.947642
+31,2,1    7 Avenue Express,2020-04-15 01:52:29,Flatbush Av - Brooklyn College,40.632836,-73.947642
+32,3,2    7 Avenue Express,2020-04-15 01:06:10,Times Sq - 42 St,40.75529,-73.987495
+33,3,2    7 Avenue Express,2020-04-15 01:10:45,Harlem - 148 St,40.823879999999996,-73.93647
+34,3,2    7 Avenue Express,2020-04-15 01:25:00,Times Sq - 42 St,40.75529,-73.987495
+35,3,2    7 Avenue Express,2020-04-15 01:10:54,Harlem - 148 St,40.823879999999996,-73.93647
+36,3,2    7 Avenue Express,2020-04-15 01:45:00,Times Sq - 42 St,40.75529,-73.987495
+37,3,2    7 Avenue Express,2020-04-15 01:49:00,Harlem - 148 St,40.823879999999996,-73.93647
+38,4,3    Lexington Avenue Express,2020-04-15 01:36:30,New Lots Av,40.666235,-73.884079
+39,4,3    Lexington Avenue Express,2020-04-15 01:52:59,New Lots Av,40.666235,-73.884079
+40,4,3    Lexington Avenue Express,2020-04-15 02:10:47,New Lots Av,40.666235,-73.884079
+41,4,3    Lexington Avenue Express,2020-04-15 02:03:13,Woodlawn,40.886037,-73.878751
+42,4,3    Lexington Avenue Express,2020-04-15 02:22:25,Woodlawn,40.886037,-73.878751
+43,4,3    Lexington Avenue Express,2020-04-15 02:32:00,Woodlawn,40.886037,-73.878751
+44,4,3    Lexington Avenue Express,2020-04-15 02:42:00,New Lots Av,40.666235,-73.884079
+45,4,3    Lexington Avenue Express,2020-04-15 02:42:30,Woodlawn,40.886037,-73.878751
+46,4,3    Lexington Avenue Express,2020-04-15 03:02:30,Woodlawn,40.886037,-73.878751
+47,4,3    Lexington Avenue Express,2020-04-15 03:12:00,New Lots Av,40.666235,-73.884079
+48,4,3    Lexington Avenue Express,2020-04-15 00:59:38,New Lots Av,40.666235,-73.884079
+49,4,3    Lexington Avenue Express,2020-04-15 01:13:16,New Lots Av,40.666235,-73.884079
+50,4,3    Lexington Avenue Express,2020-04-15 01:21:12,New Lots Av,40.666235,-73.884079
+51,4,3    Lexington Avenue Express,2020-04-15 01:20:01,Woodlawn,40.886037,-73.878751
+52,5,4    Lexington Avenue Express,2020-04-15 01:13:00,E 180 St,40.841894,-73.873488
+53,5,4    Lexington Avenue Express,2020-04-15 01:15:00,Eastchester - Dyre Av,40.8883,-73.830834
+54,5,4    Lexington Avenue Express,2020-04-15 01:33:00,E 180 St,40.841894,-73.873488
+55,5,4    Lexington Avenue Express,2020-04-15 01:35:00,Eastchester - Dyre Av,40.8883,-73.830834
+56,6,6    Lexington Avenue Local,2020-04-15 01:00:17,Pelham Bay Park,40.852462,-73.828121
+57,6,6    Lexington Avenue Local,2020-04-15 01:05:00,Brooklyn Bridge - City Hall,40.713065,-74.004131
+58,6,6    Lexington Avenue Local,2020-04-15 01:16:51,Brooklyn Bridge - City Hall,40.713065,-74.004131
+59,6,6    Lexington Avenue Local,2020-04-15 01:18:22,Pelham Bay Park,40.852462,-73.828121
+60,6,6    Lexington Avenue Local,2020-04-15 01:30:00,Pelham Bay Park,40.852462,-73.828121
+61,6,6    Lexington Avenue Local,2020-04-15 01:37:34,Brooklyn Bridge - City Hall,40.713065,-74.004131
+62,6,6    Lexington Avenue Local,2020-04-15 01:37:37,Pelham Bay Park,40.852462,-73.828121
+63,6,6    Lexington Avenue Local,2020-04-15 01:57:30,Brooklyn Bridge - City Hall,40.713065,-74.004131
+64,6,6    Lexington Avenue Local,2020-04-15 01:57:00,Pelham Bay Park,40.852462,-73.828121
+65,6,6    Lexington Avenue Local,2020-04-15 02:07:30,Brooklyn Bridge - City Hall,40.713065,-74.004131
+66,6,6    Lexington Avenue Local,2020-04-15 02:17:30,Brooklyn Bridge - City Hall,40.713065,-74.004131
+67,6,6    Lexington Avenue Local,2020-04-15 02:12:00,Pelham Bay Park,40.852462,-73.828121
+68,6,6    Lexington Avenue Local,2020-04-15 00:30:54,Brooklyn Bridge - City Hall,40.713065,-74.004131
+69,N,23    Broadway Local,2020-04-15 01:00:33,Kings Hwy,40.603922999999995,-73.98035300000001
+70,N,23    Broadway Local,2020-04-15 01:08:13,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+71,N,23    Broadway Local,2020-04-15 01:23:21,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+72,N,23    Broadway Local,2020-04-15 01:33:00,86 St,40.592721000000004,-73.97823000000001
+73,N,23    Broadway Local,2020-04-15 01:52:21,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+74,N,23    Broadway Local,2020-04-15 02:18:00,Kings Hwy,40.603922999999995,-73.98035300000001
+75,N,23    Broadway Local,2020-04-15 02:24:00,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+76,N,23    Broadway Local,2020-04-15 01:10:00,86 St,40.592721000000004,-73.97823000000001
+77,N,23    Broadway Local,2020-04-15 01:53:00,86 St,40.592721000000004,-73.97823000000001
+78,N,23    Broadway Local,2020-04-15 02:44:00,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+79,N,23    Broadway Local,2020-04-15 02:48:00,Kings Hwy,40.603922999999995,-73.98035300000001
+80,N,23    Broadway Local,2020-04-15 03:04:00,Astoria - Ditmars Blvd,40.775036,-73.91203399999999
+81,N,23    Broadway Local,2020-04-15 03:08:00,Kings Hwy,40.603922999999995,-73.98035300000001
+82,Q,24    Broadway Express,2020-04-15 01:04:21,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+83,Q,24    Broadway Express,2020-04-15 01:17:21,96 St,40.784318,-73.947152
+84,Q,24    Broadway Express,2020-04-15 01:36:21,96 St,40.784318,-73.947152
+85,Q,24    Broadway Express,2020-04-15 01:51:00,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+86,Q,24    Broadway Express,2020-04-15 01:53:21,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+87,Q,24    Broadway Express,2020-04-15 02:10:30,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+88,Q,24    Broadway Express,2020-04-15 02:07:30,96 St,40.784318,-73.947152
+89,Q,24    Broadway Express,2020-04-15 02:27:30,96 St,40.784318,-73.947152
+90,Q,24    Broadway Express,2020-04-15 02:30:30,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+91,Q,24    Broadway Express,2020-04-15 02:47:00,96 St,40.784318,-73.947152
+92,Q,24    Broadway Express,2020-04-15 03:00:30,Coney Island - Stillwell Av,40.577422,-73.98123299999999
+93,R,25    Broadway Local,2020-04-15 00:58:21,Whitehall St - South Ferry,40.703087,-74.01299399999999
+94,R,25    Broadway Local,2020-04-15 01:26:43,Whitehall St - South Ferry,40.703087,-74.01299399999999
+95,R,25    Broadway Local,2020-04-15 01:28:30,Bay Ridge - 95 St,40.616622,-74.030876
+96,R,25    Broadway Local,2020-04-15 01:05:35,Bay Ridge - 95 St,40.616622,-74.030876
+97,R,25    Broadway Local,2020-04-15 01:47:30,Bay Ridge - 95 St,40.616622,-74.030876
+98,R,25    Broadway Local,2020-04-15 01:57:00,Whitehall St - South Ferry,40.703087,-74.01299399999999
+99,R,25    Broadway Local,2020-04-15 02:07:30,Bay Ridge - 95 St,40.616622,-74.030876
+100,R,25    Broadway Local,2020-04-15 02:17:00,Whitehall St - South Ferry,40.703087,-74.01299399999999
+101,R,25    Broadway Local,2020-04-15 02:27:30,Bay Ridge - 95 St,40.616622,-74.030876
