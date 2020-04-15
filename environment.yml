@@ -66,11 +66,13 @@ dependencies:
   - xz=5.2.4=h1de35cc_1001
   - zlib=1.2.11=h0b31af3_1006
   - pip:
+    - coloredlogs==14.0
     - entrypoints==0.3
     - flake8==3.7.9
     - gmplot==1.2.0
     - gtfs==0.1.2
     - gtfs-realtime-bindings==0.0.6
+    - humanfriendly==8.1
     - mccabe==0.6.1
     - msgpack==1.0.0
     - neovim==0.3.1
