@@ -1,4 +1,4 @@
-name: vier
+name: mta 
 channels:
   - conda-forge
   - anaconda-fusion
