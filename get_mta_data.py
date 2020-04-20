@@ -66,19 +66,21 @@ def get_last_stops_df(feeds_array, stops=None, routes=None):
             for entity in feed.entity:
                 if entity.HasField("trip_update") and len(entity.trip_update.stop_time_update) > 0:
                     route_id = entity.trip_update.trip.route_id
-                    route_name = routes[routes["route_id"] == route_id].route_long_name.to_string()
-                    # logger.info(f"LINE: {route_id} {route_name}")
+                    route_name = " ".join(
+                        routes[routes["route_id"] == route_id].route_long_name.to_string().split(" ")[4:]
+                    )
+                    logger.info(f"LINE: {route_id} {route_name}")
 
                     last_idx = len(entity.trip_update.stop_time_update) - 1
                     last_elem = entity.trip_update.stop_time_update[last_idx]
                     time = datetime.fromtimestamp(last_elem.arrival.time)
                     str_time = time.strftime("%Y-%m-%d %H:%M:%S")
-                    # logger.info(f"TIME: {str_time}")
+                    logger.info(f"TIME: {str_time}")
 
                     stop_name = " ".join(
                         stops[stops["stop_id"] == last_elem.stop_id].stop_name.to_string().split(" ")[4:]
                     )
-                    # logger.info(f"STOP: {stop_name}\n")
+                    logger.info(f"STOP: {stop_name}\n")
 
                     lat = stops[stops["stop_id"] == last_elem.stop_id].stop_lat.values[0]
                     long = stops[stops["stop_id"] == last_elem.stop_id].stop_lon.values[0]
