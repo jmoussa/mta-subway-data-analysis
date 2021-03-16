@@ -1,4 +1,5 @@
 base.json
 .vim/
+.DS_Store
 mta.html
 train_real_time_data.csv
